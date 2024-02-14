@@ -1,2 +1,2 @@
-# ARIMA-SARIMA-Prophet-Prediction-
+# ARIMA-SARIMA-Prophet-Prediction
 Using Time Series models to predict meteorological data 
